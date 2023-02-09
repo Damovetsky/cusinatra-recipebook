@@ -1,16 +1,4 @@
-# cusinatra
+# buybuyka
 
-A new Flutter project.
+This is my new study project for a mobile application for a book of recipes that allows users to check recepies that are organized by different categories and favorite them to heve a quicker access to them later on.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
